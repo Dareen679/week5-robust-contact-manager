@@ -52,6 +52,6 @@ The intended workflow for each change is to write a test for the behavior, run i
 
 ## Screencast (3–5 minutes)
 
-**Video link:** [Add the link to my recorded screencast here before submission]
+**Video link:** [Watch my Week 5 Contact Manager Screencast](https://www.loom.com/share/9c32e567ad57420a9f5f3ee012f545cb)
 
 In the video, I demonstrate the menu, invalid input, missing names, duplicate contacts, the exception-handling code, and the six passing unit tests.
